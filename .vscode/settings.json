@@ -3,6 +3,18 @@
         "iostream": "cpp",
         "utility": "cpp",
         "ostream": "cpp",
-        "__locale": "cpp"
+        "__locale": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "queue": "cpp",
+        "algorithm": "cpp",
+        "__node_handle": "cpp",
+        "array": "cpp",
+        "iterator": "cpp",
+        "stack": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp"
     }
 }

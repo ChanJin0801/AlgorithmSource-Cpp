@@ -12,7 +12,7 @@ void bfs(int start){
     q.push(start);
     c[start] = true;
     while(!q.empty()){
-        //x가 첨에는 2
+        //x가 첨에는 1
         int x = q.front();
         q.pop();
         cout << x << ' ';
